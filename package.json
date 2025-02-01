@@ -1,0 +1,12 @@
+{ 
+  "name": "global-ban-bot", 
+  "version": "1.0.0", 
+  "description": "A Discord bot that bans users globally across all servers.", 
+  "main": "index.js", 
+  "scripts": { 
+    "start": "node index.js" 
+  }, 
+  "dependencies": { 
+    "discord.js": "^14.0.0" 
+  } 
+} 
