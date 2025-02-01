@@ -96,7 +96,3 @@ This bot is made by **Jasons Modifications** and is licensed for use and modific
 ## Support
 
 If you encounter any issues or need help, feel free to reach out for support via [Jasons Modifications Discord](https://discord.gg/JcPAEHq3PJ).
-
----
-
-Let me know if you need further adjustments!
